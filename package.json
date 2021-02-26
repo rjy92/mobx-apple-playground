@@ -1,7 +1,7 @@
 {
   "name": "mobx-guide",
   "version": "0.1.0",
-  "homepage": "https://rjy92.github.io/mobx-apple-playground",
+  "homepage": "https://rjy92.github.io",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-decorators": "^7.12.1",
